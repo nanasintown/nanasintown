@@ -3,7 +3,7 @@ I'm a Master student at Aalto University, Finland
 
 👩🏻‍🎓   Majoring in Security and Cloud Computing<br/>
 👩🏻‍💻   Working on my software development skills<br/>
-🌱   I’m currently learning iOS development<br/>
+🌱   I’m currently finalizing my Master's thesis<br/>
 😄   Pronouns: She/her
 
 <h4 align="left">You can find me at</h4>
